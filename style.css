@@ -1,0 +1,61 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://images.squarespace-cdn.com/content/v1/53e4ea80e4b0a79b40480ad4/1580735956846-RAJYL4D7QW6JDP6HRODY/YUGIOH_dan_mumford_1.jpg?format=1000w");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 42px;
+  font-style: bold;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 7px solid black;
+  border-collapse: collapse;
+  background: white;
+}
+
+h1 {
+  color: black;
+}
+
+th,
+tr,
+td {
+  border: solid 1px black;
+  color: black;
+}
+.imagem_jogadores {
+  max-height: 90px;
+  max-widht: 90px;
+}
